@@ -14,7 +14,7 @@ app/
 └── client/
     ├── src/
     │   ├── App.jsx
-    │   ├── ResourceList.jsx
+    │   ├── resList.jsx
     │   ├── main.jsx
     │   └── index.css
     ├── vite.config.js

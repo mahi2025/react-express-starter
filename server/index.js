@@ -7,12 +7,12 @@ const PORT = 3000;
 const resources = [
     {
         id: 1,
-        title: "Intoduction to Algorithms",
+        title: "Introduction to Algorithms",
         type: "Recording",
     },
     {
         id:2,
-        title: "Sytem Design",
+        title: "System Design",
         type: "Recording"
     }
 ];
